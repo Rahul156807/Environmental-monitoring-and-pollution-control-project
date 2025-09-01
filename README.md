@@ -6,8 +6,6 @@ I have made this project in jupyter notebook using python and its various librar
 
 The name of this project is SmogSense
 
-🔗 Links
-linkedin
 
 🛠 Skills
 Python
